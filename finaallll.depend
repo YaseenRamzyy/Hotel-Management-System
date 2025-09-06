@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1735453856 source:c:\users\mazen\onedrive\desktop\finaallll\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+
+1735481264 source:c:\users\lenovo\onedrive - alexandria university\desktop\finall proj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
